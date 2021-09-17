@@ -1,8 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+PRODID:-//Apple Inc.//iPhone OS 14.8//EN
 N:Kipfer;Yanik;;;
-FN: Yanik  Kipfer;
+FN: Yanik  Kipfer
+ORG:NoGov;
 TITLE:Political Scientist, Economist & Data Scientist
 EMAIL;type=INTERNET;type=WORK;type=pref:kipferyanik@gmail.com
 TEL;type=WORK;type=VOICE:+41 763 344 775
